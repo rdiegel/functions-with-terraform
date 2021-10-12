@@ -7,7 +7,6 @@ terraform {
   }
 }
 
-# Provider for current subscription / a.k.a. API Subscription
 provider "azurerm" {
   features {}
 }
